@@ -30,7 +30,7 @@
 Software Developer from Karachi, Pakistan, focused on Python automation, 
 Java (OOP) & C programming, and frontend web development.
 
-🎓 Currently pursuing BS in Data Science at DHA Suffa University 
+🎓 Currently pursuing BS in Data Science at DHA Suffa University (GPA 3.59/4.0)
 🛠️  Experience automating workflows & optimizing application performance
 🌐 Building responsive, user-focused web interfaces
 📈 Applying data structures & algorithms to solve real-world problems
