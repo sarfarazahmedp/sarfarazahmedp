@@ -1,6 +1,8 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Sarfaraz%20Ahmed%20Pahore&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20%7C%20Python%20%7C%20Java%20%26%20C%20Developer&descAlignY=55&descSize=18)
+# 👋 Hi, I'm Sarfaraz Ahmed Pahore
+
+### Frontend Developer | Python Developer | Java & C Programmer
 
 <a href="https://github.com/sarfarazahmedp">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Python+%7C+Java+(OOP)+%7C+C+Developer;Frontend+Web+Developer;BS+Data+Science+%40+DHA+Suffa+University;Building+clean%2C+efficient+code" alt="Typing SVG" />
@@ -18,12 +20,6 @@
 ![Followers](https://img.shields.io/github/followers/sarfarazahmedp?style=for-the-badge&color=7C3AED&label=FOLLOWERS)
 ![Stars](https://img.shields.io/github/stars/sarfarazahmedp?style=for-the-badge&color=6D28D9&label=STARS)
 
-</div>
-
----
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sarfarazahmedp&theme=github_dark" alt="Profile Summary" />
 </div>
 
 ---
