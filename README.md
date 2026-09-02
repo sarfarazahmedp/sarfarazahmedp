@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Sarfaraz Ahmed Pahore
 
-### Frontend Developer | Python Developer | Java & C Programmer
+### Data Science Student | Python Developer (Django · Flask · FastAPI) | Web Apps with React.js | SQL · Git/GitHub
 
 <a href="https://github.com/sarfarazahmedp">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Python+%7C+Java+(OOP)+%7C+C+Developer;Frontend+Web+Developer;BS+Data+Science+%40+DHA+Suffa+University;Building+clean%2C+efficient+code" alt="Typing SVG" />
