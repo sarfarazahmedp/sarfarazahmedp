@@ -24,24 +24,23 @@
 <table>
   <tr>
     <td width="52%" valign="top">
-
-<img src="./profile-ascii.svg" alt="ASCII portrait of Sarfaraz Ahmed" width="100%">
-
+      <img src="./profile-ascii.svg" alt="ASCII portrait of Sarfaraz Ahmed" width="100%">
     </td>
     <td width="48%" valign="top">
-
-### `profile.json`
-
-```json
-{
+      <h3>profile.json</h3>
+      <pre><code>{
   "name": "Sarfaraz Ahmed",
   "location": "Pakistan",
   "role": "Python Developer",
-  "available_for": "learning & collaboration",
+  "available_for": "learning &amp; collaboration",
   "motto": "Build. Learn. Repeat."
-}
-```
-
+}</code></pre>
+      <h3>focus.txt</h3>
+      <pre><code>&gt; Backend development
+&gt; Useful automation
+&gt; Data and visualization
+&gt; AI / ML exploration
+&gt; DSA — currently learning</code></pre>
     </td>
   </tr>
 </table>
