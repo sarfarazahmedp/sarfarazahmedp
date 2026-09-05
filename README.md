@@ -25,7 +25,7 @@
   <tr>
     <td width="52%" valign="top">
 
-<img src="./assets/profile-ascii.svg" alt="ASCII portrait of Sarfaraz Ahmed" width="100%">
+<img src="./profile-ascii.svg" alt="ASCII portrait of Sarfaraz Ahmed" width="100%">
 
     </td>
     <td width="48%" valign="top">
