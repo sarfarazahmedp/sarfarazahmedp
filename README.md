@@ -1,98 +1,71 @@
-<!-- GitHub Profile README for sarfarazahmedp -->
+# Hi, I'm Sarfaraz Ahmed 👋
 
-<div align="center">
+### Python Developer · Backend Builder · Data & AI Learner
 
-```text
- ███████╗ █████╗ ██████╗ ███████╗ █████╗ ██████╗  █████╗ ███████╗
- ██╔════╝██╔══██╗██╔══██╗██╔════╝██╔══██╗██╔══██╗██╔══██╗╚══███╔╝
- ███████╗███████║██████╔╝█████╗  ███████║██████╔╝███████║  ███╔╝
- ╚════██║██╔══██║██╔══██╗██╔══╝  ██╔══██║██╔══██╗██╔══██║ ███╔╝
- ███████║██║  ██║██║  ██║██║     ██║  ██║██║  ██║██║  ██║███████╗
- ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝
-```
+I am a software engineering student from Pakistan, focused on building practical web applications, automation tools, and data-driven projects. I enjoy learning by building and am currently strengthening my skills in AI/ML and Data Structures & Algorithms.
 
-<b>Python Developer · Backend Builder · Data & AI Learner</b>
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20my%20website-e65426?style=for-the-badge&logo=vercel&logoColor=white)](https://sarfarazahmedp.github.io/my-projects1/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarfaraz-ahmed-pahore-3150b12b0)
+[![Email](https://img.shields.io/badge/Email-Get%20in%20touch-161616?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sarfarazahmedpahore3@email.com)
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-e65426?style=for-the-badge&logo=vercel&logoColor=white)](https://sarfarazahmedp.github.io/my-projects1/)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarfaraz-ahmed-pahore-3150b12b0)
-[![Email](https://img.shields.io/badge/EMAIL-161616?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sarfarazahmedpahore3@email.com)
+## About me
 
-</div>
+- 🔭 I build practical projects with Python, web technologies, and databases.
+- 🌱 I am currently learning AI/ML and Data Structures & Algorithms.
+- 📊 I have basic experience with Excel data cleaning, PivotTables, Power BI, and data visualization.
+- 🤝 I am open to learning opportunities and useful collaborations.
+- ⚡ Motto: **Build. Learn. Improve. Repeat.**
 
----
+## Tech stack
 
-<table>
-  <tr>
-    <td width="52%" valign="top">
-      <img src="./profile-ascii.svg" alt="ASCII portrait of Sarfaraz Ahmed" width="100%">
-    </td>
-    <td width="48%" valign="top">
-      <h3>profile.json</h3>
-      <pre><code>{
-  "name": "Sarfaraz Ahmed",
-  "location": "Pakistan",
-  "role": "Python Developer",
-  "available_for": "learning &amp; collaboration",
-  "motto": "Build. Learn. Repeat."
-}</code></pre>
-      <h3>focus.txt</h3>
-      <pre><code>&gt; Backend development
-&gt; Useful automation
-&gt; Data and visualization
-&gt; AI / ML exploration
-&gt; DSA — currently learning</code></pre>
-    </td>
-  </tr>
-</table>
+**Backend & Programming**
 
-## `> tech_stack --list`
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+**Web & Databases**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+**Tools & Data**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+## Featured projects
+
+| Project | Description | Tech |
+| --- | --- | --- |
+| [Portfolio Website](https://sarfarazahmedp.github.io/my-projects1/) | Personal portfolio showcasing my skills and projects. | HTML, CSS, JavaScript |
+| Web Scraper + Data Dashboard | Scrapes public web data and turns it into useful visual insights. | Python, BeautifulSoup, Pandas, Streamlit |
+| AI Study Assistant | An assistant for study questions and explanations using an LLM API. | FastAPI, Gemini API, AI |
+| Expense Tracker | A SQLite-based tool for recording expenses and generating category reports. | Python, SQLite, SQL |
+| [Student Record System](https://sarfarazahmedp.github.io/my-projects/student_record.html) | Student-record management with persistent data storage. | C, File I/O |
+| [Bank Account OOP](https://sarfarazahmedp.github.io/my-projects/bank_system.html) | A banking simulation that explores object-oriented programming. | Java, OOP |
+
+## GitHub activity
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,flask,fastapi,java,c,html,css,js,ts,react,nextjs,php,mysql,sqlite,git,github,vscode&perline=9" alt="Technology stack">
+  <img src="https://github-readme-stats.vercel.app/api?username=sarfarazahmedp&show_icons=true&hide_border=true&title_color=0A66C2&icon_color=0A66C2&text_color=333333&bg_color=ffffff" alt="Sarfaraz's GitHub statistics" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarfarazahmedp&layout=compact&hide_border=true&title_color=0A66C2&text_color=333333&bg_color=ffffff" alt="Most used languages" height="165">
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Data-SQL%20%C2%B7%20Excel%20%C2%B7%20Power%20BI-1d4ed8?style=flat-square" alt="Data tools">
-  <img src="https://img.shields.io/badge/Exploring-AI%2FML%20%C2%B7%20DSA-e65426?style=flat-square" alt="Currently learning">
-</p>
-
-## `> ls ./featured-projects`
-
-| Project | Description | Stack |
-| :-- | :-- | :-- |
-| [**Portfolio Website**](https://sarfarazahmedp.github.io/my-projects1/) | Personal portfolio and project showcase. | HTML, CSS, JavaScript |
-| **Web Scraper + Data Dashboard** | Scrapes public data, cleans it, and visualizes insights. | Python, BeautifulSoup, Pandas, Streamlit |
-| **AI Study Assistant** | An API-powered assistant for study questions and explanations. | FastAPI, Gemini API, LLMs |
-| **Expense Tracker** | Tracks expenses and produces category reports using SQLite. | Python, SQLite, SQL |
-| [**Student Record System**](https://sarfarazahmedp.github.io/my-projects/student_record.html) | Persistent student-record CRUD project. | C, File I/O |
-| [**Bank Account OOP**](https://sarfarazahmedp.github.io/my-projects/bank_system.html) | Banking simulation using object-oriented programming. | Java, OOP |
-
-## `> contribution activity`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sarfarazahmedp&show_icons=true&hide_border=true&title_color=e65426&icon_color=e65426&text_color=4b4640&bg_color=f5f1e9" height="150" alt="GitHub stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarfarazahmedp&layout=compact&hide_border=true&title_color=e65426&text_color=4b4640&bg_color=f5f1e9" height="150" alt="Top languages">
-
-<br><br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sarfarazahmedp/sarfarazahmedp/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sarfarazahmedp/sarfarazahmedp/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/sarfarazahmedp/sarfarazahmedp/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
-## `> contact --open`
-
-```text
-I am open to learning opportunities, useful collaborations,
-and beginner-friendly projects. Let's build something worthwhile.
-```
+## Connect with me
 
 - 🌐 Portfolio: [sarfarazahmedp.github.io/my-projects1](https://sarfarazahmedp.github.io/my-projects1/)
 - 💼 LinkedIn: [Sarfaraz Ahmed Pahore](https://www.linkedin.com/in/sarfaraz-ahmed-pahore-3150b12b0)
 - ✉️ Email: [sarfarazahmedpahore3@email.com](mailto:sarfarazahmedpahore3@email.com)
-
-<div align="center"><sub>"Small projects. Consistent progress. Meaningful skills."</sub></div>
